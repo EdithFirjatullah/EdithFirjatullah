@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">WOOOOYY, Ngopi Ngapa Ngopi!!! </h1>
 
 ###
 
@@ -29,30 +29,37 @@
 
 ###
 
-<h2 align="left">Tech Stack / Brewing Tools 💻☕:</h2>
+<h2 align="left">Tech Stack & Brewing Gear 💻☕:</h2>
 
 ###
 
-<div align="left">
-  <!-- Tech Stack Standard -->
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  
-  <img width="24" /> <!-- Jarak agak jauh -->
+<div align="center">
+  <!-- Data Stack -->
 
-  <!-- Ikon Kopi Minimalis (Dripper, Grinder, Timbangan) -->
-  <img src="https://api.iconify.design/game-icons:coffee-dripper.svg?color=%236F4E37" height="40" alt="V60 Dripper" title="V60 / Hario Switch" />
+<img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  
+  <br><br> <!-- Pindah baris untuk alat kopi -->
+
+  <!-- Coffee "Hardware" Stack -->
+  <img src="https://img.shields.io/badge/Hardware-Hario_Switch-black?style=for-the-badge&logo=coffeescript&logoColor=white" height="40" alt="Hario Switch" />
   <img width="12" />
-  <img src="https://api.iconify.design/mdi:coffee-maker.svg?color=%234A3728" height="40" alt="Grinder" title="Comandante / Latina" />
+  <img src="https://img.shields.io/badge/Engine-Comandante_C40-7A5C58?style=for-the-badge&logo=coffeescript&logoColor=white" height="40" alt="Comandante" />
   <img width="12" />
-  <img src="https://api.iconify.design/mdi:scale.svg?color=%231A1A1A" height="40" alt="Scale" title="Timemore Scale" />
-  <img width="12" />
-  <img src="https://api.iconify.design/game-icons:coffee-beans.svg?color=%236F4E37" height="40" alt="Coffee Beans" title="Specialty Beans" />
+  <img src="https://img.shields.io/badge/Metrics-Timemore_Scale-151515?style=for-the-badge&logo=coffeescript&logoColor=white" height="40" alt="Timemore" />
 </div>
 
 ###
