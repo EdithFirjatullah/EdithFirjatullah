@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is <strong>Edith Firja</strong> and I'm a <strong>Data Enthusiast by day, aspiring Barista by night</strong>, hailing from Earth 🌍 (specifically from the region where coffee bean extraction parameters are optimal).</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
