@@ -14,7 +14,7 @@
 ✨ Creating bugs since <strong>I discovered that code, like espresso, requires the perfect grind size to run smoothly.</strong><br>
 📚 I'm currently learning <strong>the art of manual brewing (V60) — basically, I'm trying to optimize the extraction yield of caffeine to hyper-drive my data processing skills.</strong><br>
 🎯 Goals: <strong>Predicting the perfect coffee flavor profile using Machine Learning, and mastering the ultimate V60 pour without spilling over my mechanical keyboard.</strong><br>
-🎲 Fun fact: <strong>I treat my data cleaning process like rinsing a V60 paper filter — if you don't do it right, the final taste (and insights) will be papery and full of garbage data.</strong>
+🎲 Fun fact: <strong>Kopi itu senjata rahasia saya, kalo minum kopi saya jadi pinterr</strong>
 </p>
 
 ###
